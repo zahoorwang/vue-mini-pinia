@@ -1,0 +1,13 @@
+{
+  "name": "vue-mini-pinia",
+  "version": "1.0.0",
+  "description": "支持 vue-mini 的 Pinia",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Zahoor <zahoor.wang@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@vue-mini/core": "^1.2.0"
+  }
+}
